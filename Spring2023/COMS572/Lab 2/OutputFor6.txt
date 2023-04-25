@@ -1,0 +1,181 @@
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 3 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2, depth 3
+Agent 1 takes 2.612104654312134 seconds and agent 2 takes 2.5539474487304688 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 3 and 4 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2, depth 4
+Agent 1 takes 3.9240882396698 seconds and agent 2 takes 13.476250648498535 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 4 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2, depth 3
+Agent 1 takes 18.629313707351685 seconds and agent 2 takes 3.557251453399658 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 5 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2, depth 3
+Agent 1 takes 80.1713604927063 seconds and agent 2 takes 3.7358314990997314 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 6 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1, depth 6
+Agent 1 takes 269.27141761779785 seconds and agent 2 takes 3.142997980117798 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 3 and 6 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2, depth 6
+Agent 1 takes 4.3052818775177 seconds and agent 2 takes 259.2815155982971 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 7 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1, depth 7
+Agent 1 takes 1432.4546973705292 seconds and agent 2 takes 3.58063006401062 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 7 and 4 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1, depth 7
+Agent 1 takes 1719.8894572257996 seconds and agent 2 takes 19.574780225753784 seconds
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 4 and 7 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2, depth 7
+Agent 1 takes 19.212862253189087 seconds and agent 2 takes 1718.2269444465637 seconds
+
+
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+Playing using same evaluaiton funciton (Weighted position) with different depth values
+Depth for agent 1 is 8 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1, depth 8
+Agent 1 takes 16628.471898794174 seconds and agent 2 takes 4.277555227279663 seconds
+
+
+
+
+
+
+
+
+
+
+

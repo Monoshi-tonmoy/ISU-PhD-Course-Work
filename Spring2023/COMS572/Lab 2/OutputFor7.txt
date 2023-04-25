@@ -1,0 +1,96 @@
+Agent 1 is black and Agent 2 is white.....
+One evaluation function: Weighted position (Agent 1) and another one: normal counting and substraction of white and black pieces(Agent 2).
+Depth for agent 1 is 3 and 3 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1 with weighted position evaluation funciton, depth 3
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+One evaluation function: Weighted position (Agent 1) and another one: normal counting and substraction of white and black pieces(Agent 2).
+Depth for agent 1 is 3 and 4 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2 with normal evaluation funciton, depth 4
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+One evaluation function: Weighted position (Agent 1) and another one: normal counting and substraction of white and black pieces(Agent 2).
+Depth for agent 1 is 4 and 4 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1 with weighted position evaluation funciton, depth 4
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+One evaluation function: Weighted position (Agent 1) and another one: normal counting and substraction of white and black pieces(Agent 2).
+Depth for agent 1 is 3 and 6 for agent 2
+
+Here is your winner..............................................
+The winner is agent 2 with normal evaluation funciton, depth 6
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+One evaluation function: Weighted position (Agent 1) and another one: normal counting and substraction of white and black pieces(Agent 2).
+Depth for agent 1 is 5 and 5 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1 with weighted position evaluation funciton, depth 5
+
+
+
+
+
+
+
+
+
+
+Agent 1 is black and Agent 2 is white.....
+One evaluation function: Weighted position (Agent 1) and another one: normal counting and substraction of white and black pieces(Agent 2).
+Depth for agent 1 is 5 and 4 for agent 2
+
+Here is your winner..............................................
+The winner is agent 1 with weighted position evaluation funciton, depth 5
+
+
+
+
+
+
+
+
+
+

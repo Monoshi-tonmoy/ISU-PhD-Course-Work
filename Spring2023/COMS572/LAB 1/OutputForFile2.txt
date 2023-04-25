@@ -1,0 +1,215 @@
+
+
+Total Nodes Generated 121139
+Total time taken 4.0 minutes 52.0 seconds 53 millisecond 
+Path Length: 24
+Path: ['U', 'U', 'L', 'L', 'D', 'D', 'R', 'U', 'U', 'L', 'D', 'R', 'U', 'R', 'D', 'D', 'L', 'L', 'U', 'R', 'U', 'R', 'D', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S1.txt on ALGORITHM BFS.........................
+
+
+
+
+
+
+
+
+
+Total Nodes Generated 20166
+Total time taken 0.0 minutes 27.0 seconds 802 millisecond 
+Path Length: 24
+Path: ['L', 'U', 'L', 'D', 'R', 'U', 'L', 'U', 'R', 'D', 'L', 'D', 'R', 'U', 'L', 'U', 'R', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S1.txt on ALGORITHM h1.........................
+
+
+
+
+Total Nodes Generated 5534
+Total time taken 0.0 minutes 2.0 seconds 104 millisecond 
+Path Length: 24
+Path: ['L', 'U', 'L', 'D', 'R', 'U', 'L', 'U', 'R', 'D', 'L', 'D', 'R', 'U', 'L', 'U', 'R', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S1.txt on ALGORITHM h2.........................
+
+
+
+
+
+
+
+Total Nodes Generated 7404
+Total time taken 0.0 minutes 4.0 seconds 251 millisecond 
+Path Length: 24
+Path: ['U', 'U', 'L', 'L', 'D', 'D', 'R', 'U', 'U', 'L', 'D', 'R', 'U', 'R', 'D', 'D', 'L', 'L', 'U', 'R', 'U', 'R', 'D', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S1.txt on ALGORITHM h3.........................
+
+
+
+Total nodes generated: undefined
+Time out, more than 15 minutes
+Path Length: Timed Out
+Path sequence: Timed out
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S1.txt on ALGORITHM IDS.........................
+
+
+
+
+Total Nodes Generated 51802
+Total time taken 1.0 minutes 2.0 seconds 106 millisecond 
+Path Length: 20
+Path: ['R', 'U', 'R', 'D', 'L', 'U', 'U', 'R', 'D', 'L', 'L', 'U', 'R', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S2.txt on ALGORITHM BFS.........................
+
+
+
+
+Total Nodes Generated 3136
+Total time taken 0.0 minutes 0.0 seconds 622 millisecond 
+Path Length: 20
+Path: ['R', 'U', 'R', 'D', 'L', 'U', 'U', 'R', 'D', 'L', 'L', 'U', 'R', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S2.txt on ALGORITHM h1.........................
+
+
+
+
+Total Nodes Generated 861
+Total time taken 0.0 minutes 0.0 seconds 58 millisecond 
+Path Length: 20
+Path: ['R', 'U', 'R', 'D', 'L', 'U', 'U', 'R', 'D', 'L', 'L', 'U', 'R', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S2.txt on ALGORITHM h3.........................
+
+
+
+
+Total Nodes Generated 347
+Total time taken 0.0 minutes 0.0 seconds 11 millisecond 
+Path Length: 20
+Path: ['R', 'U', 'R', 'D', 'L', 'U', 'U', 'R', 'D', 'L', 'L', 'U', 'R', 'R', 'D', 'L', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S2.txt on ALGORITHM h2.........................
+
+
+
+Total nodes generated: undefined
+Time out, more than 15 minutes
+Path Length: Timed Out
+Path sequence: Timed out
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S2.txt on ALGORITHM IDS.........................
+
+
+
+Solution Doesn't Exist, stopping execution
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S3.txt on ALGORITHM BFS.........................
+
+
+
+Solution Doesn't Exist, stopping execution
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S3.txt on ALGORITHM h1.........................
+
+
+
+Solution Doesn't Exist, stopping execution
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S3.txt on ALGORITHM h2.........................
+
+
+
+Solution Doesn't Exist, stopping execution
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S3.txt on ALGORITHM h3.........................
+
+
+
+Solution Doesn't Exist, stopping execution
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S3.txt on ALGORITHM IDS.........................
+
+
+
+
+Total Nodes Generated 89
+Total time taken 0.0 minutes 0.0 seconds 10 millisecond 
+Path Length: 6
+Path: ['L', 'L', 'U', 'R', 'R', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S4.txt on ALGORITHM BFS.........................
+
+
+
+
+Total Nodes Generated 14
+Total time taken 0.0 minutes 0.0 seconds 0 millisecond 
+Path Length: 6
+Path: ['L', 'L', 'U', 'R', 'R', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S4.txt on ALGORITHM h1.........................
+
+
+
+
+Total Nodes Generated 12
+Total time taken 0.0 minutes 0.0 seconds 0 millisecond 
+Path Length: 6
+Path: ['L', 'L', 'U', 'R', 'R', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S4.txt on ALGORITHM h2.........................
+
+
+
+
+Total Nodes Generated 14
+Total time taken 0.0 minutes 0.0 seconds 1 millisecond 
+Path Length: 6
+Path: ['L', 'L', 'U', 'R', 'R', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S4.txt on ALGORITHM h3.........................
+
+
+
+
+Total Nodes Generated 476
+Total time taken 0.0 minutes 0.0 seconds 2 millisecond 
+Path Length: 6
+Path: ['L', 'L', 'U', 'R', 'R', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S4.txt on ALGORITHM IDS.........................
+
+
+
+
+Total Nodes Generated 181439
+Total time taken 13.0 minutes 14.0 seconds 219 millisecond 
+Path Length: 31
+Path: ['U', 'L', 'D', 'L', 'D', 'R', 'U', 'R', 'D', 'L', 'U', 'U', 'L', 'D', 'D', 'R', 'U', 'R', 'U', 'L', 'L', 'D', 'R', 'R', 'U', 'L', 'L', 'D', 'R', 'D', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S5.txt on ALGORITHM BFS.........................
+
+
+
+Total nodes generated: undefined
+Time out, more than 15 minutes
+Path Length: Timed Out
+Path sequence: Timed out
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S5.txt on ALGORITHM h1.........................
+
+
+
+
+Total Nodes Generated 18044
+Total time taken 0.0 minutes 33.0 seconds 879 millisecond 
+Path Length: 31
+Path: ['D', 'L', 'L', 'U', 'R', 'U', 'L', 'D', 'R', 'R', 'U', 'L', 'D', 'D', 'L', 'U', 'U', 'R', 'D', 'R', 'D', 'L', 'U', 'R', 'U', 'L', 'D', 'L', 'D', 'R', 'R']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S5.txt on ALGORITHM h2.........................
+
+
+
+
+
+
+Total Nodes Generated 55150
+Total time taken 9.0 minutes 11.0 seconds 580 millisecond 
+Path Length: 31
+Path: ['D', 'L', 'L', 'U', 'U', 'R', 'R', 'D', 'D', 'L', 'U', 'U', 'R', 'D', 'D', 'L', 'U', 'L', 'D', 'R', 'U', 'L', 'U', 'R', 'R', 'D', 'D', 'L', 'U', 'R', 'D']
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S5.txt on ALGORITHM h3.........................
+
+
+
+
+
+
+
+Total nodes generated: undefined
+Time out, more than 15 minutes
+Path Length: Timed Out
+Path sequence: Timed out
+...............Ran the FILE F:\ISU\Spring2023\COMS572\LAB 1\Part2\Part2\S5.txt on ALGORITHM IDS.........................
+
+
