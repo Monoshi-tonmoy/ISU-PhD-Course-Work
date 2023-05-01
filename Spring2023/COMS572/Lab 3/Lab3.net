@@ -1,0 +1,270 @@
+net
+{
+	propagationenginegenerator1791944048146838126L = "edu.ucla.belief.approx.BeliefPropagationSettings@9bc159";
+	recoveryenginegenerator6944530267470113528l = "edu.ucla.util.SettingsImpl@1dfc696";
+	jenginegenerator6060830225489488864L = "edu.ucla.belief.inference.JoinTreeSettings@14d933c";
+	node_size = (130.0 55.0);
+}
+
+node F_3
+{
+	states = ("Fair" "Bias" );
+	position = (656 -198);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable4";
+	label = "Coin_Before_F3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip4
+{
+	states = ("Head" "Tail" );
+	position = (886 -366);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Flip_4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip5
+{
+	states = ("Head" "Tail" );
+	position = (1100 -367);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Flip_5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node CF1
+{
+	states = ("Fair" "Bias" );
+	position = (219 -201);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable0";
+	label = "Coin_Before_F1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip6
+{
+	states = ("Head" "Tail" );
+	position = (1336 -363);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Flip_6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node F6
+{
+	states = ("Fair" "Bias" );
+	position = (1334 -203);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable6";
+	label = "Coin_Before_F6";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node F2
+{
+	states = ("Fair" "Bias" );
+	position = (430 -199);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable1";
+	label = "Coin_Before_F2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip_2
+{
+	states = ("Head" "Tail" );
+	position = (430 -371);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable3";
+	label = "Flip_2";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip8
+{
+	states = ("Head" "Tail" );
+	position = (1832 -358);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Flip_8";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip3
+{
+	states = ("Head" "Tail" );
+	position = (655 -370);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Flip_3";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip7
+{
+	states = ("Head" "Tail" );
+	position = (1561 -358);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "false";
+	ID = "variable5";
+	label = "Flip_7";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node F7
+{
+	states = ("Fair" "Bias" );
+	position = (1560 -208);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable6";
+	label = "Coin_Before_F7";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node F8
+{
+	states = ("Fair" "Bias" );
+	position = (1833 -210);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable6";
+	label = "Coin_Before_F8";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node Flip_1
+{
+	states = ("Head" "Tail" );
+	position = (218 -367);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "false";
+	ID = "variable0";
+	label = "Flip_1";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node F4
+{
+	states = ("Fair" "Bias" );
+	position = (885 -199);
+	diagnosistype = "AUXILIARY";
+	DSLxSUBMODEL = "Root Submodel";
+	ismapvariable = "true";
+	ID = "variable6";
+	label = "Coin_Before_F4";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+node F5
+{
+	states = ("Fair" "Bias" );
+	position = (1098 -200);
+	diagnosistype = "AUXILIARY";
+	ismapvariable = "true";
+	ID = "variable6";
+	label = "Coin_Before_F5";
+	DSLxEXTRA_DEFINITIONxDIAGNOSIS_TYPE = "AUXILIARY";
+	excludepolicy = "include whole CPT";
+}
+potential ( F_3 | F2 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
+potential ( Flip4 | F4 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( Flip5 | F5 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( CF1 | )
+{
+	data = (	1.0	0.0	);
+}
+potential ( Flip6 | F6 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( F6 | F5 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
+potential ( F2 | CF1 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
+potential ( Flip_2 | F2 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( Flip8 | F8 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( Flip3 | F_3 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( Flip7 | F7 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( F7 | F6 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
+potential ( F8 | F7 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
+potential ( Flip_1 | CF1 )
+{
+	data = ((	0.5	0.5	)
+		(	0.7	0.3	));
+}
+potential ( F4 | F_3 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
+potential ( F5 | F4 )
+{
+	data = ((	0.6	0.4	)
+		(	0.0	1.0	));
+}
